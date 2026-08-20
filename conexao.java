@@ -6,7 +6,7 @@ import java.sql.DriverManager;
 public class conexao {
 
     private static final String URL =
-            "jdbc:mysql://localhost:/minimercado";
+            "jdbc:mysql://localhost:3306/minimercado";
 
     private static final String USUARIO = "root";
 
